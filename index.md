@@ -4,7 +4,9 @@
 #[303] The Vault
 
 ## About Us
+
 ### Where did the name come from?
+
 >Located in Colorado Rocky Mountains, the Vault is an immense maximum security facility designed to hold for superhuman criminals and a specialized wing for extraterrestrial prisoners.
 >
 > -- [Marvel Wiki](http://marvel.wikia.com/wiki/Vault_(Prison))
@@ -16,6 +18,7 @@ We chose this name because the founding members are all friends from Colorado (3
 We’re here to hit milestones and kick ass. Everyone loves getting awesome alliance rewards. To do this we need to work as a team and maximize results by optimizing everyone’s resources and time. Everyone contributes. Play smarter, not harder. Share knowledge and help others. Lastly, do not forget that it is a game and have fun!
 
 ## Rules. Gotta have them.
+
 See [Rule Explanation](#rule-explanations) section below for more detail. If you have any questions or concerns, feel free to ask an Officer.
 
 ### General
@@ -53,6 +56,7 @@ See [Rule Explanation](#rule-explanations) section below for more detail. If you
 8. You have a max energy of 5, so use it wisely.12
 
 ### Infraction Consequences
+
 The following are the consequences of rule violations. 3 strike system.
 
 1. Warning
