@@ -27,22 +27,22 @@ See [Rule Explanation](#rule-explanations) section below for more detail. If you
 
 ### General
 
-1. Respect all other members.<sup>1
-2. GroupMe is MANDATORY. It is a free chat app on iOS/Android.<sup>2
-3. Participation is required by everyone on all 3-/5-/7-day events unless notice is given.<sup>3
+1. Respect all other members.<sup>1</sup>
+2. GroupMe is MANDATORY. It is a free chat app on iOS/Android.<sup>2</sup>
+3. Participation is required by everyone on all 3-/5-/7-day events unless notice is given.<sup>3</sup>
 4. Participation must stop for an event that is maxed-out.
-5. If an event requires participation, do the bare minimum you can contribute, so that all members have a chance to join in.<sup>4
+5. If an event requires participation, do the bare minimum you can contribute, so that all members have a chance to join in.<sup>4</sup>
 
 ### Crystals
 
-1. ONLY open crystals if there is a 1- or 3-day event. Period.<sup>5
-2. “Hero” crystals (premium, daily, 2/3/4*) should NOT be opened on 1-day crystal events.<sup>6
-3. 2-star crystals should ONLY be opened on dupe days.<sup>7
+1. ONLY open crystals if there is a 1- or 3-day event. Period.<sup>5</sup>
+2. “Hero” crystals (premium, daily, 2/3/4*) should NOT be opened on 1-day crystal events.<sup>6</sup>
+3. 2-star crystals should ONLY be opened on dupe days.<sup>7</sup>
 
 ### Rank Up
 
 1. Do NOT rank up unless there is an event. Period.
-2. 4* rank ups are NOT allowed on a 1-day event.<sup>8
+2. 4* rank ups are NOT allowed on a 1-day event.<sup>8</sup>
 
 ### Level Up
 
@@ -54,10 +54,10 @@ See [Rule Explanation](#rule-explanations) section below for more detail. If you
 2. Spectate the quest first and find a person who compliments your team and the path that provides a class advantage. Partner up with them and communicate on GroupMe.
 3. Do not join a Quest with a B team. Come prepared with your best champions.
 4. No more than 2 players should be on a single path.
-5. In the event you are KO’ed, look for the opportunity to unlock unoccupied nodes.10
+5. In the event you are KO’ed, look for the opportunity to unlock unoccupied nodes.<sup>10</sup>
 6. Never attack a buffed node. Just be patient, it is not worth it.
-7. Never attack with a class disadvantage.11
-8. You have a max energy of 5, so use it wisely.12
+7. Never attack with a class disadvantage.<sup>11</sup>
+8. You have a max energy of 5, so use it wisely.<sup>12</sup>
 
 ### Infraction Consequences
 
