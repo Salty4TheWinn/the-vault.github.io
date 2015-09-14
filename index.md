@@ -6,7 +6,7 @@ body { color: #333; font: 16px/1.6 Helvetica, arial, sans-serif; }
 body > * { max-width: 800px; margin-right: auto; margin-left: auto; }
 body > *:first-child { padding-top: 50px; }
 body > *:last-child { padding-bottom: 50px; }
-blockquote { padding: 20px; background: #EEE; }
+blockquote { padding: 10px 20px; background: #EEE; }
 </style>
 
 #[303] The Vault
