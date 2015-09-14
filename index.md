@@ -21,6 +21,12 @@ We chose this name because the founding members are all friends from Colorado (3
 
 We’re here to hit milestones and kick ass. Everyone loves getting awesome alliance rewards. To do this we need to work as a team and maximize results by optimizing everyone’s resources and time. Everyone contributes. Play smarter, not harder. Share knowledge and help others. Lastly, do not forget that it is a game and have fun!
 
+### Quick Links
+
+* [Catalyst cheat sheet](http://i.imgur.com/uRuWQe3.jpg)
+* [Roster manager](http://gabriel-hook.github.io/contest-of-champions/)
+* [Contest of Champions subreddit](https://www.reddit.com/r/ContestOfChampions/)
+
 ## Rules. Gotta have them.
 
 See [Rule Explanation](#rule-explanations) section below for more detail. If you have any questions or concerns, feel free to ask an Officer.
