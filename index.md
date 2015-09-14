@@ -1,11 +1,11 @@
 ---
 ---
 <style type="text/css">
-body { color: #333; font: 13px/1.4 Helvetica, arial, sans-serif; }
-content { max-width: 800px;  }
+body { color: #333; font: 16px/1.6 Helvetica, arial, sans-serif; }
+main { max-width: 800px;  }
 </style>
 
-<content>
+<main>
 #[303] The Vault
 
 <section>
@@ -87,4 +87,4 @@ The following are the consequences of rule violations. 3 strike system.
 <sup>11</sup>  Change up your Champion or have your buddy take them out.  
 <sup>12</sup>  Try to check in at least every 5 hours (unless you’re sleeping of course) to avoid holding up someone waiting on your node to be cleared.  
 </section>
-</content>
+</main>
