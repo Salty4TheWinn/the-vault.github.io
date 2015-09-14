@@ -6,9 +6,11 @@ body { color: #333; font: 16px/1.6 Helvetica, arial, sans-serif; }
 </style>
 
 <div id="main">
+
 #[303] The Vault
 
 <section>
+
 ## About Us
 
 ### Where did the name come from?
@@ -22,9 +24,11 @@ We chose this name because the founding members are all friends from Colorado (3
 ### Alliance Mission
 
 We’re here to hit milestones and kick ass. Everyone loves getting awesome alliance rewards. To do this we need to work as a team and maximize results by optimizing everyone’s resources and time. Everyone contributes. Play smarter, not harder. Share knowledge and help others. Lastly, do not forget that it is a game and have fun!
+
 </section>
 
 <section>
+
 ## Rules. Gotta have them.
 
 See [Rule Explanation](#rule-explanations) section below for more detail. If you have any questions or concerns, feel free to ask an Officer.
@@ -86,5 +90,7 @@ The following are the consequences of rule violations. 3 strike system.
 <sup>10</sup>  Even though you are KO’d, you can still “leapfrog” other members by staying in front and unlocking the path.  
 <sup>11</sup>  Change up your Champion or have your buddy take them out.  
 <sup>12</sup>  Try to check in at least every 5 hours (unless you’re sleeping of course) to avoid holding up someone waiting on your node to be cleared.  
+
 </section>
+
 </div>
