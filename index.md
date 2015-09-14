@@ -2,10 +2,8 @@
 ---
 <style type="text/css">
 body { color: #333; font: 16px/1.6 Helvetica, arial, sans-serif; }
-section { max-width: 800px;  }
+body > * { max-width: 800px; }
 </style>
-
-<section>
 
 #[303] The Vault
 
@@ -84,5 +82,3 @@ The following are the consequences of rule violations. 3 strike system.
 <sup>10</sup>  Even though you are KO’d, you can still “leapfrog” other members by staying in front and unlocking the path.  
 <sup>11</sup>  Change up your Champion or have your buddy take them out.  
 <sup>12</sup>  Try to check in at least every 5 hours (unless you’re sleeping of course) to avoid holding up someone waiting on your node to be cleared.  
-
-</section>
