@@ -2,7 +2,7 @@
 ---
 <style type="text/css">
 body { color: #333; font: 16px/1.6 Helvetica, arial, sans-serif; }
-body > * { max-width: 800px; }
+body > * { max-width: 800px; margin: 0 auto; }
 </style>
 
 #[303] The Vault
