@@ -1,6 +1,7 @@
 ---
 ---
 <style type="text/css">
+* { box-sizing: border-box; }
 body { color: #333; font: 16px/1.6 Helvetica, arial, sans-serif; }
 body > * { max-width: 800px; margin-right: auto; margin-left: auto; }
 body > *:first-child { padding-top: 50px; }
@@ -16,7 +17,7 @@ blockquote { padding: 20px; background: #EEE; }
 
 >Located in Colorado Rocky Mountains, the Vault is an immense maximum security facility designed to hold for superhuman criminals and a specialized wing for extraterrestrial prisoners.
 >
-> -- [Marvel Wiki](http://marvel.wikia.com/wiki/Vault_(Prison))
+> - [Marvel Wiki](http://marvel.wikia.com/wiki/Vault_(Prison))
 
 We chose this name because the founding members are all friends from Colorado (303 is an area code). Plus it is badass.
 
