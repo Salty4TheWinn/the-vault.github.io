@@ -32,7 +32,7 @@ If you have any questions or concerns, feel free to ask an Officer.
 3. **Communicate!**  
    If you know you will miss an event, you need to let everyone know, otherwise you will be held accountable.
 
-4. **Participation is required by everyone on all 3-/5-/7-day events unless notice is given.**  
+4. **Participation is required by everyone on all multi-day events unless notice is given.**  
    1-day events should have as much participation as possible, but these rewards are not usually worth much effort. Exceptions will be announced via GroupMe.
 
 5. **Use Help.**  
@@ -43,15 +43,15 @@ If you have any questions or concerns, feel free to ask an Officer.
 
 ####Crystals:
 
-1. **ONLY open crystals if there is a 1- or 3-day event. Period.**  
-   According to Kabam, 7-day crystal events will always be running. You need to save your crystals for overlapping 1- / 3-day events. Basically, only participate in the 7-day event if there is also a 1- / 3-day crystal event running at the same time.
+1. **ONLY open crystals if there is an event.**  
+   Kabam has been changing events a lot lately. Until we can fine-tune the best time to open crystals, you're pretty much free to open them as long as an event is happening.
 
 2. **“Hero” crystals (premium, daily, 2/3/4*) should NOT be opened on 1-day crystal events.**  
    1-day event rewards are not worth opening a “hero” crystal for.
 
 ####Rank Up:
 
-1. **Do NOT rank up unless there is an event. Period.**
+1. **Do NOT rank up unless there is an event.**
 
 2. **4* rank ups are NOT allowed on a 1-day event.**  
    They are way too valuable to waste on a 1-day event.
