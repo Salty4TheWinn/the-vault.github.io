@@ -56,11 +56,6 @@ If you have any questions or concerns, feel free to ask an Officer.
 2. **4* rank ups are NOT allowed on a 1-day event.**  
    They are way too valuable to waste on a 1-day event.
 
-####~~Level Up:~~
-
-1. ~~**Save your level ups for an event, if you can.**~~  
-   ~~Level Up does *not* equal Rank Up. If you have to level up a champ for a Rank Up event, go ahead, just try not to waste them.~~
-
 ####Duels:
 1. **This is a special 1-day event that is required.**  
    This is an exception to the 1-day events. It is an easy event that gives good rewards. If it is a champion event, we find an easy player and post in GroupMe and in-game chat.
